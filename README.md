@@ -1,6 +1,6 @@
-Hai
-I am OxygenEnjoyer but you can call me oxygen
-I love oxygen
+Hai,
+I am OxygenEnjoyer but you can call me oxygen.
+I love oxygen,
 oh and games too
 
 <!---
