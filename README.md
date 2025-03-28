@@ -5,6 +5,6 @@
 
 - 👯 I’m looking to collaborate on **games and mods** , feel free to approach I would love to talk even if you dont want to collab.
 
-- 📫 How to reach me: **smakingshuk@gmail.com**
+- 📫 How to reach me: **oxygenenjoyer333_89502** *DM on Discord*
 
 - ⚡ What I like to do: *Who knows?*
