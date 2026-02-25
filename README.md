@@ -9,5 +9,7 @@
 
 - ⚡ What I like to do: *Who knows?*
 
-<h1 align="center">Shi I use</h1>
+<h1>Shi I use</h1>
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></img>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
