@@ -5,11 +5,13 @@
 
 - 👯 I’m looking to collaborate on **games and mods** , feel free to approach I would love to talk even if you dont want to collab.
 
-- 📫 How to reach me: **oxygenenjoyer333_89502** *DM on Discord*
+- 📫 How to reach me: **oxygenenjoyer333_89502** *DM on Discord and say "I come from Github"*
 
 - ⚡ What I like to do: *Who knows?*
 
 <h1>Shi I use</h1>
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></img>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+<p float="left">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+</p>
