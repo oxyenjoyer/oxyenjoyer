@@ -15,3 +15,6 @@
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></img>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 </p>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxyenjoyer&layout=compact&theme=github_dark)
