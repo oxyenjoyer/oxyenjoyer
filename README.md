@@ -9,7 +9,7 @@
 
 - ⚡ What I like to do: *Who knows?*
 
-<h1>Shi I use</h1>
+<h1>Tech Stack</h1>
 <p float="left">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></img>
